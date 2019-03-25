@@ -1,0 +1,215 @@
+*{
+	margin: auto;
+	parding: o;
+}
+#titulo{
+	background:green;
+height:200px;
+	color:#00FF00;
+	text-align:center;
+}
+.ciudades{
+	background:red;
+	color:#FFFFFF;
+	font-size:15px;
+	font-family:Arial;
+	text-align:center;
+	padding:10px;
+	margin:5px;
+	width: 31%;
+	float:left;
+	border-radius:15px;
+	height:50px;
+}
+
+.enlaces:hover{
+	color:green;
+	font-size:15px;
+	background:white;
+}
+.enlaces{
+	color:green;
+	text-decoration:none;
+}
+.imagen {
+	width:32%;
+	height:300px;
+	padding:8px;
+	margin:3x;
+	border-radius:5px; 
+	float:left;
+	border-radius:15px;
+}
+
+#b1{
+	background:orange;
+	padding:10px;
+	border-radius: 5px;	
+}
+
+#b2 {
+	background:orange;
+	padding:10px;
+	border:1px solid;
+	border-color:gray;
+	border-radius: 5px;
+}
+
+#b3{
+	border-radius: 50px;
+	background: #00FF00;
+	padding:10px;
+	
+	
+}
+
+.imagen:hover {filter: blur(5px);}
+
+
+#titulo1{
+	color:red;
+	font-family:Bahnschrift SemiLight Condensed;
+	font-size:35px;
+	text-align:center;
+	background: silver;
+
+}
+
+#imglondres{
+	width:100%;
+	height:300px;
+	border-radius: 15px
+}
+
+#titulolondres{
+	text-align:center;
+	font-size:22px;
+	font-family:Arial Black;
+	color:red;
+	background:silver;
+}
+
+#parrafo{
+	font-size:20px;
+	text-align:justify;
+}
+
+#turs{
+	color:red;
+	text-align:center;
+	background:silver;
+}
+
+#videos {
+	width:98%;
+	height:400px;
+	margin:5x;
+	padding:5px;
+	border: 8px solid;
+	border-color: black;
+}
+#cuerpo{
+	background:#01DFD7;
+	
+}
+
+
+#cuerpo1{
+	background:#FF0000;
+}
+#titulo2{
+	color:white;
+	text-align:center;
+	font-family:Bahnschrift SemiLight Condensed;
+	font-size:50px;
+	height:100px;
+}
+
+#imgparis{
+	width:100%;
+	height:400px;
+	margin:5px;
+	padding:5px;
+	border-radius:35px;
+}
+
+#tituloparis{
+	text-align:center;
+	font-size:50px;
+	font-family:Bahnschrift SemiLight Condensed;
+	color:white;
+}
+
+#parrafo1{
+	font-size:29px;
+	text-align:justify;
+	color:white;
+}
+
+#ciudades{
+	text-align:center;
+	font-size:50px;
+	font-family:Bahnschrift SemiLight Condensed;
+	color:white;
+}
+
+.fotos{
+	width:30%;
+	height:300px;
+	margin:10px;
+	padding:5px;
+	border:2px solid;
+	border-color: black;
+	float:center;
+}
+
+
+#cuerpo2{
+	background:#071907;
+}
+#titulo3{
+	text-align:center;
+	font-size:50px;
+	font-family:Algerian;
+	color:white;
+	height:150px;
+}
+
+#imgtokyo{
+	width:98%;
+	height:500px;
+	margin:15px;
+	padding:5px;
+	border-radius:15px;
+}
+
+#titulotokyo{
+	text-align:center;
+	font-family:Algerian;
+	font-size:50px;
+	height:100px;
+	color:white;
+}
+
+#parrafo2{
+	color:white;
+	font-size:25px;
+	text-align:justify
+}
+#animes{
+	text-align:center;
+	font-size:50px;
+	font-family:Algerian;
+	color:white;
+	height:100px;
+}
+.fotos1{
+	width:30%;
+	height:500px;
+	margin:10px;
+	padding:5;
+	border:2px solid;
+	border-color: gold;
+	
+	
+}
